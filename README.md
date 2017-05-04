@@ -1,6 +1,6 @@
-## Your Name
+## Ian Simpson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After 25 years within various finance departments it took a year long stint as a Financial Controller at a digital agency to find a passion for coding. Over the years I've learnt a logical thought process integral with business finance, whether this be day to day running or the improvement of process and formats. A drive to learn and immerse myself within coding/development led me to Makers Academy with a goal to make development a new career.
 
 ## Skills
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May17 to Jul17)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### CIMA (2008 to 2012)
+CIMA Professional qualification - Management Level
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Head London** (Oct15 to Jan17)    
+*Financial Controller*  
+**Cobham Communications** (May15 to Sep15)   
+*Financial Analyst (contract)*
+**Head London** (Oct15 to Jan17)    
+*Financial Controller*
+
+
