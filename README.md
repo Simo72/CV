@@ -6,11 +6,18 @@ After 25 years within various finance departments it took a year long stint as a
 
 #### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Over the period of the intensive Makers Academy course we've been immersed in everything from pair-programming, OOP and TDD to machine learning and databases. 
 
-- Experience
-- Achievements
-- Evidence
+- Ruby
+- Javascript
+- Python
+- Testing
+  * RSpec
+  * Capybara
+  * Jasmine
+  * Travis
+  * Writing test without a framework
+- Rails
 
 #### Another Skill
 
