@@ -32,12 +32,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (May17 to Jul17)
 
-- Curiosity and hungry passion for code
+
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, JavaScript
+- Rspec, Jasmine
 
 #### CIMA (2008 to 2012)
 CIMA Professional qualification - Management Level
@@ -47,10 +47,12 @@ CIMA Professional qualification - Management Level
 ## Experience
 
 **Head London** (Oct15 to Jan17)    
-*Financial Controller*  
+*Financial Controller*
+Improving systems
+Working closely with heads and MD
 **Cobham Communications** (May15 to Sep15)   
 *Financial Analyst (contract)*
-**Head London** (Oct15 to Jan17)    
-*Financial Controller*
+**Mediacom** (Apr14 to Mar15)    
+*Finance Manager*
 
 
