@@ -1,12 +1,18 @@
 ## Ian Simpson
 
-After 25 years within various finance departments it took a year long stint as a Financial Controller at a digital agency to find a passion for coding. Over the years I've learnt a logical thought process integral with business finance, whether this be day to day running or the improvement of process and formats. A drive to learn and immerse myself within coding/development led me to Makers Academy with a goal to make development a new career.
+After 25 years within various finance departments it took a year long stint as a Financial Controller at a digital agency to find a passion for coding. Over the years I've learnt a logical thought process integral with business finance, whether this be day to day running of a department or the improvement of process and systems. A drive to learn and immerse myself within coding/development led me to Makers Academy with a goal to make software development a new career.
 
 ## Skills
 
-#### This Skill
 
-Over the period of the intensive Makers Academy course we've been immersed in everything from pair-programming, OOP and TDD to machine learning and databases. 
+My past employment has given me a good grounding for working within teams made up of technical and non-technical people, the Makers Academy experience has improved these skill through pair progamming and group projects.
+
+Over the period of the intensive Makers Academy course we've been immersed in everything from pair-programming, OOP and TDD to machine learning and databases.
+
+Working with legacy code has been a revaltaion, I found this an enjoyable challenge. A small expample of this can be seen with our Gilded Rose Kata - I firstly ran the tests, read through the code to get an idea of output then created a golden master of tests to cover all possible outcomes before starting the refactoring process.
+
+A good grounding in OOP through our understanding of Ruby has helped pick up other languages, week 5 we moved onto JavaSript with no prior knowledge and within a week I found a basic understanding and our week 10 project program to estimate if the following days FTSE index would got up or down using machine learning and Python, again a language I'd never used until that point.
+
 
 - Ruby
 - Javascript
@@ -48,11 +54,17 @@ CIMA Professional qualification - Management Level
 
 **Head London** (Oct15 to Jan17)    
 *Financial Controller*
-Improving systems
-Working closely with heads and MD
+Working with 
+Working closely with heads of department and MD
+
+
 **Cobham Communications** (May15 to Sep15)   
 *Financial Analyst (contract)*
+Managing to understand complex international systems to provide analysis
+
 **Mediacom** (Apr14 to Mar15)    
 *Finance Manager*
+Re-design of staff reporting (over 1000 staff)
+Working closely with HR to enable two uncompatable systems work togeather
 
 
