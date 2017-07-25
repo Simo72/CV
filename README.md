@@ -31,10 +31,9 @@ A good grounding in OOP through our understanding of Ruby has helped pick up oth
 
 
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, JavaScript
-- Rspec, Jasmine
+- OOP, TDD, SOLID, MVC
+- Ruby, Rails, JavaScript, Node
+- Rspec, Capybara, Jasmine
 
 #### CIMA (2008 to 2012)
 CIMA Professional qualification - Management Level
@@ -47,15 +46,26 @@ CIMA Professional qualification - Management Level
 *Financial Controller*
 Working closely with heads of department and MD
 Ensuring all financial and project deadlines are kept.
+Manage the month-end reporting process, including forecasting and client profitability 
+Developed and implemented utilisation and client profitability reporting
+Partnered with CEO, MD and external M&A consultancy firm to address the business’s pending sale process. Includes financial and legal due diligence process
 
 
 **Cobham Communications** (May15 to Sep15)   
 *Financial Analyst (contract)*
 Quick to learn complex international systems to provide analysis
 
-**Mediacom** (Apr14 to Mar15)    
+**Mediacom** (Mar14 to Feb15)    
 *Finance Manager*
+Produced monthly and quarterly group reports (SAP Cartesis) including forecasts
 Re-design of staff reporting (over 1000 staff)
 Working closely with HR to enable two uncompatable systems work togeather
 
+**M&C Saatchi** (Oct11 to Feb14)    
+*Financial Controller*
+Produced monthly management accounts and variances analysis for 3 entities
+Hosted regular meetings with entity CEO’s to provide insights on the management
 
+Set up the NY office in 2013 included the supervision accounts/reporting until local financial director was hired. Setup and managed the local payroll process.
+
+Set up the Abu Dhabi office in 2012 included the supervision accounts/reporting until local financial controller was hired. Setup and managed the local payroll process.
