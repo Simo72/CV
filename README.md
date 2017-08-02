@@ -7,8 +7,8 @@ After 25 years within various finance departments it took a year long stint as a
 |---               |---            |---         |
 | [Acebook](https://github.com/Simo72/acebook-team-SKIL)  | A social web-app enabling users to post, comment and like shared messages. A Makers group project | Ruby, Rails |
 | [GildedRose](https://github.com/Simo72/GildedRose-Refactoring-Kata) | Tech test, Golden master of test implemented with refactoring | Ruby|
-| [Make It Rain](https://github.com/Simo72/GildedRose-Refactoring-Kata) | An app to predict the following days FTSE 100 movement, A big learning curve from using a new language(Python) and a new technologies(Machine Learning) | Python, Scikit|
-| [Babel Chat](https://github.com/Simo72/GildedRose-Refactoring-Kata) | Instant messenger with translation, chat that recognises and translates into your chosen language | JavaScript, Node, MongoDB, React|
+| [Make It Rain](https://github.com/Simo72/makeitrain) | An app to predict the following days FTSE 100 movement, A big learning curve from using a new language(Python) and a new technologies(Machine Learning) | Python, Scikit|
+| [Babel Chat](https://github.com/Simo72/BabelChat) | Instant messenger with translation, chat that recognises and translates into your chosen language | JavaScript, Node, MongoDB, React|
 
 ## Skills
 
